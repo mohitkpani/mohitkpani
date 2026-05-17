@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **mohitpani007@gmail.com**
 
-- 📄 Know about my experiences [Resume](Resume)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1pkpVKvZR7irCTYAZeD7Jz_74VR5SE3x4/view?usp=drive_link)
 
 - ⚡ Fun fact **I turn coffee ☕ into code and bugs into features 😄**
 
