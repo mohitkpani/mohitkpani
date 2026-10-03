@@ -1,4 +1,4 @@
-![logo](https://media.licdn.com/dms/image/v2/D5616AQERPtftmwOA5Q/profile-displaybackgroundimage-shrink_200_800/B56Z40PFRhGwAQ-/0/1778992829790?e=1780531200&v=beta&t=zxK5ZmSh94-MSvBXo-YfUOwURriUIh8euBsT-GnlRAw)
+![logo](https://media.licdn.com/dms/image/v2/D5616AQERPtftmwOA5Q/profile-displaybackgroundimage-shrink_350_1400/B56Z40PFRhGwAU-/0/1778992829790?e=1792627200&v=beta&t=1_wol2mDAH0F-gGoEi9egGJv8ngT51_sbe8rmuJey4I)
 
 <h1 align="center">Hi 👋, I'm Mohit Kumar Pani</h1>
 <h3 align="center">A passionate Full Stack Java Developer from India</h3>
