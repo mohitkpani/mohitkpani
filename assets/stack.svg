@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+ width="830" height="550" viewBox="0 0 830 550" role="img" aria-labelledby="title desc">
+ <title id="title">Mohit&#x27;s technology stack</title>
+ <desc id="desc">Animated developer profile artwork for Mohit Kumar Pani.</desc>
+ <defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070b16"/><stop offset="1" stop-color="#0c1424"/></linearGradient>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#247bff"/><stop offset="1" stop-color="#ff354f"/></linearGradient>
+  <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#247bff" stop-opacity="0"/><stop offset=".5" stop-color="#f5f7ff" stop-opacity=".35"/><stop offset="1" stop-color="#ff354f" stop-opacity="0"/></linearGradient>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1" fill="#60708a" opacity=".22"/></pattern>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <style>
+   text{font-family:Inter,Segoe UI,Arial,sans-serif} .mono{font-family:Consolas,monospace;letter-spacing:1.5px}
+   .muted{fill:#9aa8bf} .white{fill:#f5f7ff} .blue{fill:#247bff} .red{fill:#ff354f}
+   .panel{fill:#101a2b;stroke:#263650;stroke-width:1.4}
+   .float{animation:float 5s ease-in-out infinite} .pulse{animation:pulse 3s ease-in-out infinite}
+   .reveal{animation:reveal 1.2s cubic-bezier(.2,.8,.2,1) both}
+   @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+   @keyframes pulse{0%,100%{opacity:.45}50%{opacity:1}}
+   @keyframes reveal{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:translateY(0)}}
+   @media (prefers-reduced-motion: reduce){.float,.pulse,.reveal{animation:none}}
+  </style>
+ </defs>
+ <rect width="830" height="550" rx="22" fill="url(#bg)"/>
+ <rect width="830" height="550" rx="22" fill="url(#dots)"/>
+ <rect x="0" y="0" width="830" height="5" rx="2" fill="url(#edge)"/>
+ 
+ <text x="42" y="52" class="mono blue" font-size="14">02  /  TECHNOLOGY STACK</text>
+ <text x="42" y="112" class="white" font-size="36" font-weight="800">TOOLS I BUILD WITH.</text>
+ <ellipse cx="415" cy="265" rx="340" ry="135" fill="none" stroke="#247bff" stroke-opacity=".25" stroke-width="2" transform="rotate(-13 415 265)"/>
+ <ellipse cx="415" cy="265" rx="340" ry="135" fill="none" stroke="#ff354f" stroke-opacity=".18" stroke-width="2" transform="rotate(13 415 265)"/>
+ <rect x="60" y="155" width="150" height="48" rx="12" fill="#14233a" stroke="#263650"/><circle cx="78" cy="179" r="4" fill="#247bff"/><text x="92" y="185" class="white mono" font-size="13">JAVA</text><rect x="250" y="155" width="150" height="48" rx="12" fill="#14233a" stroke="#263650"/><circle cx="268" cy="179" r="4" fill="#247bff"/><text x="282" y="185" class="white mono" font-size="13">SPRING BOOT</text><rect x="480" y="155" width="150" height="48" rx="12" fill="#14233a" stroke="#263650"/><circle cx="498" cy="179" r="4" fill="#247bff"/><text x="512" y="185" class="white mono" font-size="13">REACT</text><rect x="60" y="235" width="150" height="48" rx="12" fill="#14233a" stroke="#263650"/><circle cx="78" cy="259" r="4" fill="#247bff"/><text x="92" y="265" class="white mono" font-size="13">JAVASCRIPT</text><rect x="250" y="235" width="150" height="48" rx="12" fill="#14233a" stroke="#263650"/><circle cx="268" cy="259" r="4" fill="#247bff"/><text x="282" y="265" class="white mono" font-size="13">MYSQL</text><rect x="480" y="235" width="188" height="48" rx="12" fill="#14233a" stroke="#263650"/><circle cx="498" cy="259" r="4" fill="#247bff"/><text x="512" y="265" class="white mono" font-size="13">HIBERNATE / JPA</text><rect x="60" y="315" width="150" height="48" rx="12" fill="#14233a" stroke="#263650"/><circle cx="78" cy="339" r="4" fill="#247bff"/><text x="92" y="345" class="white mono" font-size="13">HTML5</text><rect x="250" y="315" width="150" height="48" rx="12" fill="#14233a" stroke="#263650"/><circle cx="268" cy="339" r="4" fill="#247bff"/><text x="282" y="345" class="white mono" font-size="13">CSS3</text><rect x="480" y="315" width="150" height="48" rx="12" fill="#14233a" stroke="#263650"/><circle cx="498" cy="339" r="4" fill="#247bff"/><text x="512" y="345" class="white mono" font-size="13">PYTHON</text><rect x="60" y="395" width="158" height="48" rx="12" fill="#14233a" stroke="#263650"/><circle cx="78" cy="419" r="4" fill="#247bff"/><text x="92" y="425" class="white mono" font-size="13">GIT &amp; GITHUB</text><rect x="250" y="395" width="150" height="48" rx="12" fill="#14233a" stroke="#263650"/><circle cx="268" cy="419" r="4" fill="#247bff"/><text x="282" y="425" class="white mono" font-size="13">MAVEN</text><rect x="480" y="395" width="150" height="48" rx="12" fill="#14233a" stroke="#263650"/><circle cx="498" cy="419" r="4" fill="#247bff"/><text x="512" y="425" class="white mono" font-size="13">REST APIs</text>
+ <text x="42" y="510" class="muted mono" font-size="12">LANGUAGES  /  FRAMEWORKS  /  DATABASES  /  TOOLS</text>
+
+</svg>

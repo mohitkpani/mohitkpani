@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="250" viewBox="0 0 830 250" role="img" aria-labelledby="title desc">
+<title id="title">GitHub activity</title>
+<desc id="desc">A profile activity panel linking to Mohit's live GitHub contributions and repositories.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070b16"/><stop offset="1" stop-color="#101a2b"/></linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#247bff"/><stop offset="1" stop-color="#ff354f"/></linearGradient>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1" fill="#60708a" opacity=".22"/></pattern>
+</defs>
+<rect width="830" height="250" rx="20" fill="url(#bg)"/>
+<rect width="830" height="250" rx="20" fill="url(#dots)"/>
+<rect width="830" height="5" rx="2" fill="url(#line)"/>
+<text x="42" y="55" fill="#247bff" font-family="Segoe UI,Arial,sans-serif" font-size="14" letter-spacing="2">05  /  GITHUB ACTIVITY</text>
+<text x="42" y="112" fill="#f5f7ff" font-family="Segoe UI,Arial,sans-serif" font-size="31" font-weight="700">Every commit is a step forward.</text>
+<text x="42" y="151" fill="#b8c4d8" font-family="Segoe UI,Arial,sans-serif" font-size="17">Explore my latest repositories, code and contributions on GitHub.</text>
+<g transform="translate(42 184)">
+  <rect width="204" height="42" rx="10" fill="#142747" stroke="#247bff"/>
+  <text x="102" y="27" fill="#f5f7ff" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700">VIEW GITHUB PROFILE  ↗</text>
+</g>
+<g transform="translate(265 184)">
+  <rect width="204" height="42" rx="10" fill="#241725" stroke="#ff354f"/>
+  <text x="102" y="27" fill="#f5f7ff" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700">EXPLORE REPOSITORIES  ↗</text>
+</g>
+<g transform="translate(660 76)" fill="none" stroke-linecap="round">
+  <path d="M0 76 C15 26 36 26 50 55 S81 99 100 42" stroke="#247bff" stroke-width="4"/>
+  <path d="M0 95 C18 65 35 76 51 90 S83 107 100 75" stroke="#ff354f" stroke-width="3" opacity=".9"/>
+  <circle cx="100" cy="42" r="6" fill="#ff354f" stroke="none"/>
+</g>
+</svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+ width="830" height="550" viewBox="0 0 830 550" role="img" aria-labelledby="title desc">
+ <title id="title">About Mohit</title>
+ <desc id="desc">Animated developer profile artwork for Mohit Kumar Pani.</desc>
+ <defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070b16"/><stop offset="1" stop-color="#0c1424"/></linearGradient>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#247bff"/><stop offset="1" stop-color="#ff354f"/></linearGradient>
+  <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#247bff" stop-opacity="0"/><stop offset=".5" stop-color="#f5f7ff" stop-opacity=".35"/><stop offset="1" stop-color="#ff354f" stop-opacity="0"/></linearGradient>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1" fill="#60708a" opacity=".22"/></pattern>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <style>
+   text{font-family:Inter,Segoe UI,Arial,sans-serif} .mono{font-family:Consolas,monospace;letter-spacing:1.5px}
+   .muted{fill:#9aa8bf} .white{fill:#f5f7ff} .blue{fill:#247bff} .red{fill:#ff354f}
+   .panel{fill:#101a2b;stroke:#263650;stroke-width:1.4}
+   .float{animation:float 5s ease-in-out infinite} .pulse{animation:pulse 3s ease-in-out infinite}
+   .reveal{animation:reveal 1.2s cubic-bezier(.2,.8,.2,1) both}
+   @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+   @keyframes pulse{0%,100%{opacity:.45}50%{opacity:1}}
+   @keyframes reveal{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:translateY(0)}}
+   @media (prefers-reduced-motion: reduce){.float,.pulse,.reveal{animation:none}}
+  </style>
+ </defs>
+ <rect width="830" height="550" rx="22" fill="url(#bg)"/>
+ <rect width="830" height="550" rx="22" fill="url(#dots)"/>
+ <rect x="0" y="0" width="830" height="5" rx="2" fill="url(#edge)"/>
+ 
+ <text x="42" y="52" class="mono blue" font-size="14">01  /  ABOUT ME</text>
+ <text x="42" y="112" class="white" font-size="36" font-weight="800">CURIOUS BY NATURE.</text>
+ <text x="42" y="154" class="blue" font-size="36" font-weight="800">BUILDER BY CHOICE.</text>
+ <text x="44" y="210" class="muted" font-size="17">I enjoy turning ideas into practical digital products,</text>
+ <text x="44" y="238" class="muted" font-size="17">from backend services to responsive user interfaces.</text>
+ <rect x="42" y="282" width="345" height="176" rx="16" class="panel"/>
+ <text x="66" y="320" class="red mono" font-size="13">WHAT I FOCUS ON</text>
+ <g class="white" font-size="17"><text x="66" y="360">✦  Full-stack web development</text><text x="66" y="397">✦  REST APIs &amp; backend systems</text><text x="66" y="434">✦  Clean, useful user experiences</text></g>
+ <rect x="415" y="282" width="370" height="176" rx="16" class="panel"/>
+ <text x="440" y="320" class="blue mono" font-size="13">CURRENT INTERESTS</text>
+ <g class="float"><text x="440" y="370" class="white" font-size="24" font-weight="700">BUILDING PRODUCTS</text><text x="440" y="402" class="muted" font-size="16">Learning, experimenting and shipping</text><text x="440" y="430" class="muted" font-size="16">projects that solve everyday problems.</text></g>
+ <text x="44" y="510" class="mono muted" font-size="12">ALWAYS LEARNING  ·  ALWAYS BUILDING</text>
+
+</svg>

@@ -1,0 +1,22 @@
+MOHITKPANI — GITHUB PROFILE PACKAGE
+
+1. Open https://github.com/mohitkpani
+2. Open the profile repository (repository name must be exactly mohitkpani).
+3. Upload README.md and the entire assets folder, preserving its structure.
+4. Commit to the default branch.
+5. Refresh https://github.com/mohitkpani and check that all custom SVG images load.
+
+The README also includes social links, technology badges, resume link, selected projects, GitHub statistics and streak cards. The GitHub stats card uses the GitHub Stats Extended endpoint; public third-party widgets can still experience downtime.
+
+Files:
+- README.md
+- assets/hero.svg
+- assets/about-life.svg
+- assets/stack.svg
+- assets/id-dashboard.svg
+- assets/connect.svg (email contact card)
+- assets/id.png
+- assets/right_pointing.png
+- preview.html
+
+Note: The technology and social icons and streak widget are externally hosted images. They need an internet connection and depend on their respective providers. The five custom SVG sections embed the character PNGs locally.
