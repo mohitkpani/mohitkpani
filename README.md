@@ -99,7 +99,7 @@
       <p><sub>React · Spring Boot · Java · PDF</sub></p>
       <a href="https://github.com/mohitkpani/resume-craft">↗ View repository</a>
       &nbsp;·&nbsp;
-      <a href="https://resume-craft-ls6y.vercel.app">Live demo</a>
+      <a href="https://resume-craft-pink.vercel.app/">Live demo</a>
     </td>
     <td width="50%" valign="top">
       <h3>✈️ TripNext AI</h3>
