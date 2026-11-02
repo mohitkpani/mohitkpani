@@ -102,13 +102,13 @@
       <a href="https://resume-craft-pink.vercel.app/">Live demo</a>
     </td>
     <td width="50%" valign="top">
-      <h3>✈️ TripNext AI</h3>
-      <p>A travel and hotel booking platform project.</p>
-      <p><sub>Web development · Travel technology</sub></p>
-      <a href="https://github.com/mohitkpani/TripNext-AI">↗ View repository</a>
-      &nbsp;·&nbsp;
-      <a href="https://github.com/mohitkpani/TripNext-AI">Live demo</a>
-    </td>
+  <h3>🤖 MohitX AI</h3>
+  <p>An AI-powered chatbot application with an interactive chat experience, powered by Google Gemini.</p>
+  <p><sub>React · JavaScript · Gemini API · AI</sub></p>
+  <a href="https://github.com/mohitkpani/MohitX-AI">↗ View repository</a>
+  &nbsp;·&nbsp;
+  <a href="https://mohit-x-ai.vercel.app/">Live demo</a>
+</td>
   </tr>
   <tr>
     <td width="50%" valign="top">
