@@ -104,7 +104,7 @@
     <td width="50%" valign="top">
   <h3>🤖 MohitX AI</h3>
   <p>An AI-powered chatbot application with an interactive chat experience, powered by Google Gemini.</p>
-  <p><sub>React · JavaScript · Gemini API · AI</sub></p>
+  <p><sub>React · Spring Boot · Java . Gemini API · AI</sub></p>
   <a href="https://github.com/mohitkpani/MohitX-AI">↗ View repository</a>
   &nbsp;·&nbsp;
   <a href="https://mohit-x-ai.vercel.app/">Live demo</a>
